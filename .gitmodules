@@ -1,0 +1,3 @@
+[submodule "scrypt"]
+	path = src/scrypt
+	url = https://github.com/Tarsnap/scrypt

@@ -1,0 +1,6 @@
+build
+node_modules
+prebuilds
+
+benchmarks/browser.bundle.js
+npm-debug.log

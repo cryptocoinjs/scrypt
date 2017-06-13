@@ -1,0 +1,14 @@
+{
+  "name": "scrypt-benchmark",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "./node_modules/.bin/browserify browser.js -o browser.bundle.js && firefox ./index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^14.4.0"
+  }
+}
