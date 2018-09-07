@@ -6,7 +6,9 @@ Version | Mac/Linux | Windows
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-This module provides native bindings to [Colin Percival's scrypt][1]. In browser Pure JS implementation (based on [scryptsy](https://github.com/cryptocoinjs/scryptsy])) will be used.
+This module provides native bindings to [Colin Percival's scrypt][1].
+
+In browser Pure JS implementation (based on [scryptsy](https://github.com/cryptocoinjs/scryptsy)) will be used.
 
 Current scrypt version: 1.2.1
 
